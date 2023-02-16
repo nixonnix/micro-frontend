@@ -15,7 +15,7 @@ This example demos a basic host application loading remote component.
 - [localhost:3001](http://localhost:3001/) (STANDALONE REMOTE) - `dashboard`
 - [localhost:3002](http://localhost:3002/) (STANDALONE REMOTE) - `order`
 - [localhost:3003](http://localhost:3003/) (STANDALONE REMOTE) - `sales`
-- [localhost:3004](http://localhost:3004/) (STANDALONE REMOTE) - `profile`
+- [localhost:3004](http://localhost:3004/) (STANDALONE REMOTE) - `Invoice`
 
 
 # Data Transmission
